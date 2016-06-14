@@ -1,5 +1,6 @@
 'use strict';
 
+// Use the spotifyapp Html
 // Get our artist and album data from the Spotify API
 getArtistData();
 getAlbumData();
